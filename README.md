@@ -1,6 +1,6 @@
 ![Rudra's GitHub Banner](GitHubHeader.png)
 <div align="center">
-<h3 align="center">A freelance developer and also an engineering student at Manipal Institute of Techonology</h4>
+<h3 align="center">A ML enthusiast and also an engineering student at Manipal Institute of Techonology</h4>
 </div>
 
 <div align="center">
