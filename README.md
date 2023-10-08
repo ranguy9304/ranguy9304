@@ -29,7 +29,8 @@
 
 <div>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ranguy9304's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ranguy9304&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+[![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranguy9304)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ranguy9304's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ranguy9304&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a> -->
 </div>
 
 <div>
