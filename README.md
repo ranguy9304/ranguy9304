@@ -29,8 +29,8 @@
 
 <div>
   <h2 align="center"> my current activity </h2>
-[![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranguy9304)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ranguy9304's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ranguy9304&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a> -->
+<!-- [![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranguy9304)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ranguy9304's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ranguy9304&theme=github" /></a>
 </div>
 
 <div>
@@ -45,42 +45,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Rudra" height="30"/></a>
     </p>
-  <p align="center">
-<!--       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a> -->
-      <br>
-    </p>
+  
   </samp>
 </div>
-
-
-<!-- <div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  <a href="github.com/ranguy9304" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/ranguy9304/ranguy9304?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/ranguy9304" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/ranguy9304/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/ranguy9304" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/ranguy9304/ranguy9304?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/ranguy9304" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/ranguy9304/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
-</div>
- -->
-
-------
 
